@@ -1,0 +1,7 @@
+git checkout master                                  Switches to the master branch
+git branch -D develop newfeature                     Forces the deletion of a branch
+git push origin :develop :newfeature                 Sends commits to the remote repository branch
+git tag -d V0.1                                      Gives a name to a version at a certian point in time
+git push origin :V0.1                                Sends commits from a specific version to the remote repository branch
+git reset --hard <last commit ID>                    Clears the staging area and rewrites the working tree from a specific commit
+git push --force                                      Forces commits to be sent to the remote repository branch
