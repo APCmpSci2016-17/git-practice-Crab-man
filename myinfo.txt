@@ -1,3 +1,7 @@
 Adam, King of absolute silence
 adam.moritz@comcast.net
+<<<<<<< HEAD
 Milo
+=======
+Green
+>>>>>>> d1c616b6199178830973066bb4d51afba08a7a43
